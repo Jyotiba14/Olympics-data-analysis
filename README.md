@@ -19,5 +19,5 @@ To determine the following tasks listed below  -
 2. Comparison of males vs females participation in games over the years . 
 3. Top female athletes to win medals by sportwise , age and country etc. 
 4. To determin the youngest and oldest particpant to win a medal 
-5. India's particaption , medal winner and in which sport events .  
+5. India's particaption , medal winner and in which sport events we have more success.  
 
